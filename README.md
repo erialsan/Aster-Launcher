@@ -1,21 +1,2 @@
 # Aster-Launcher
 Fast, Seek, Neutral, Modular, Cross-Platform Minecraft Launcher with Rust
-
-使いやすいマインクラフトランチャーを自作する
-機能としては
-1Cleanroom、LWJGL3ify及びBetter Than Adventure!などのマイナーな環境をサポートする
-2JDKをダウンロードする機能
-3スキンをグラフィカルに管理可能
-4CurseForge、Modrinthをデフォルトダウンロード可能及びModrinth-Forkのmodを設定して利用可能
-5Modpackをmrpack/curseforge zip/multimc zipでエクスポート可能
-6Rust+GPUI高速レンダリング
-7エージェント向けCLI完備
-8MokkaやDraculaなどのテーマ完備、matugenも対応
-9クラッシュ時のログをmclogsにエクスポート
-10クロスプラットフォーム
-11既知の競合リストを配信可能で、コミュニティで管理する
-12libghostty-vtターミナル内蔵で開発時のrunclient環境を一時的に管理するのにも使える
-13pluginで拡張可能、modloaderやmod配布サイトなどをすべてバンドルプラグインとして管理し、デフォルトで多くをサポートするがコミュニティでも追加可能
-14Shardというランチャーのようにmod重複消去して管理し、容量を節約する。
-15オープンソースで政治的に中立、広告無しで主張しない
-16Asterの名前はギリシア語の星でも花の名前でも崩壊スターレイルのキャラでもいい
